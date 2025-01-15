@@ -1,7 +1,6 @@
 
-- 👋 Hi, I’m @Medamine-cheddadi.first year student at UM6P school of computer science for my engineering degree.
+- 👋 Hi, I’m @Medamine-cheddadi. second  year student at UM6P school of computer science for my engineering degree.
 - 👀 I’m interested in coding, competitive programing(on code forces) and building cool projects.
-- 🌱 I’m currently learning python and c.
 - 📫 reach me at aminoscheddadi10@gmail.com.
 - ⚡ enthousiastic to learn and work on intresting projects.
 
